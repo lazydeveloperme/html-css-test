@@ -1,7 +1,5 @@
 # HTML CSS Test
 
-**HTML** and **CSS** test done by **Lazy Developer**
-
 ### Boilerplate
 **webpack-starter** as Boilerplates
 
